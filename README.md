@@ -45,10 +45,10 @@ Resolución de un desafío de SQL sobre una base relacional de ventas, clientes,
 **Herramientas:** SQL (JOIN, GROUP BY, HAVING, subconsultas), diseño de modelos relacionales
 
 📎 Archivos del proyecto:
-- [Combinación de tablas (JOIN)](./sql-consultas-avanzadas/1%20Aplicaci%C3%B3n%20de%20combinaciones%20entre%20tablas.sql)
-- [Funciones de agregación y HAVING](./sql-consultas-avanzadas/2%20Uso%20de%20funciones%20de%20agregacion.sql)
-- [Subconsultas para análisis específico](./sql-consultas-avanzadas/3%20Subconsultas%20para%20analisis%20especifico.sql)
-- [Análisis de integridad y mejoras](./sql-consultas-avanzadas/4_Analisis_integridad_y_mejoras.pdf)
+- [Combinación de tablas (JOIN)](./1%20Aplicaci%C3%B3n%20de%20combinaciones%20entre%20tablas.sql)
+- [Funciones de agregación y HAVING](./2%20Uso%20de%20funciones%20de%20agregacion.sql)
+- [Subconsultas para análisis específico](./3%20Subconsultas%20para%20analisis%20especifico.sql)
+- [Análisis de integridad y mejoras](./4.pdf)
 
 ---
 
