@@ -38,6 +38,20 @@ Análisis de 18 meses de datos de transformación digital (27 KPIs), identificac
 
 ---
 
+### 2. Consultas SQL avanzadas — JOIN, agregación y subconsultas
+
+Resolución de un desafío de SQL sobre una base relacional de ventas, clientes, productos y sucursales: combinación de tablas con JOIN, funciones de agregación con HAVING, subconsultas anidadas, y un análisis escrito de integridad referencial con propuestas de mejora del modelo de datos (tablas de devoluciones y reclamos).
+
+**Herramientas:** SQL (JOIN, GROUP BY, HAVING, subconsultas), diseño de modelos relacionales
+
+📎 Archivos del proyecto:
+- [Combinación de tablas (JOIN)](./sql-consultas-avanzadas/1%20Aplicaci%C3%B3n%20de%20combinaciones%20entre%20tablas.sql)
+- [Funciones de agregación y HAVING](./sql-consultas-avanzadas/2%20Uso%20de%20funciones%20de%20agregacion.sql)
+- [Subconsultas para análisis específico](./sql-consultas-avanzadas/3%20Subconsultas%20para%20analisis%20especifico.sql)
+- [Análisis de integridad y mejoras](./sql-consultas-avanzadas/4_Analisis_integridad_y_mejoras.pdf)
+
+---
+
 ## ✅ Buenas prácticas aplicadas en este portafolio
 
 - **Consistencia y personalización**: todos los enlaces y descripciones corresponden a trabajo real, sin textos de plantilla sin completar.
