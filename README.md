@@ -11,7 +11,6 @@ Ingeniero de Ejecución Industrial (USACH) especializado en análisis de datos y
 
 ## 🧭 Sobre este repositorio
 
-
 Este portafolio reúne los proyectos desarrollados durante mi formación como Data Analyst en **Desafío Latam**, aplicando SQL, Power BI, Python y narrativa de datos sobre casos de negocio reales.
 
 ### ¿Por qué GitHub como repositorio?
@@ -26,10 +25,16 @@ Este portafolio reúne los proyectos desarrollados durante mi formación como Da
 ## 📁 Proyectos destacados
 
 ### 1. Narrativa de datos para la transformación digital — Caso TechCorp
+
 Análisis de 18 meses de datos de transformación digital (27 KPIs), identificación de un insight no evidente (el costo humano detrás de un éxito operacional), presentación ejecutiva con 5 visualizaciones aplicando principios de diseño y Gestalt, y storyboard con script de 3 minutos para el CEO.
 
 **Herramientas:** Python (Pandas, Matplotlib), storytelling de datos, diseño de presentaciones
-📎 [Ver proyecto completo](https://drive.google.com/drive/folders/1NUQaTwOJTUF8kCAX8cZoPUx8w2C4V3-M?usp=sharing)
+
+📎 Archivos del proyecto:
+- [Análisis y definición de la narrativa](./1.%20Análisis%20y%20definición%20de%20la%20narrativa.docx)
+- [Diseño de visualizaciones con principios](./2.%20Diseño%20de%20visualizaciones%20con%20principios.pptx)
+- [Storyboard ejecutivo y recomendaciones](./3.%20Storyboard%20ejecutivo%20y%20recomendaciones.docx)
+- [Dataset utilizado](./transformacion_digital_dataset.csv)
 
 ---
 
